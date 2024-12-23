@@ -24,7 +24,7 @@
   foo();
 
   echo "<br>";
-  (new Tesopkote)->bar();
+  (new Teste)->bar();
   echo "<br>";
 
   $teste = new Teste;
