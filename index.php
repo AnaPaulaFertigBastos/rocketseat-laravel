@@ -8,7 +8,7 @@
 
   class Teste {
       public string $nome = 'Ana';
-      public string $email = 'ana@gmail.com';
+      public string $email = 'abacadabra@gmail.com';
      
 
       public function __construct() {
