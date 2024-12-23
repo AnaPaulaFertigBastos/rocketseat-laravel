@@ -20,7 +20,7 @@
         echo __METHOD__;
       }
   }
-  echo "<br>";
+  echo "<lengo>";
   foo();
 
   echo "<br>";
